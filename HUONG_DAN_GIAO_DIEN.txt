@@ -1,0 +1,26 @@
+NHATANH CHINESE — HSK 1
+
+CÁCH MỞ
+Mở index.html bằng Chrome, Edge hoặc Safari. Giữ nguyên thư mục assets cạnh các file HTML. Dùng được offline.
+
+GIAO DIỆN
+Tông kem trắng, xanh sage nhạt và hồng đào; không dùng tím. Logo và tên trung tâm giữ nguyên. Font Arial hỗ trợ tiếng Việt, font hệ thống cho chữ Hán. Các khung và nút có hiệu ứng nổi khối, kính mờ và phản hồi khi tương tác.
+Ảnh nền trang chủ và 15 ảnh bìa bài học là bối cảnh không có nhân vật, không còn thỏ.
+
+BÀI TẬP
+15 bài, tổng 1.472 câu. Các phần ngoài nghe được giữ nguyên dữ liệu.
+Phần nghe mới: 150 câu, mỗi bài 10 câu, gồm 2 câu mỗi dạng:
+1. Nghe và chọn tranh (bấm trực tiếp vào tranh).
+2. Nghe câu hỏi/lời nói và chọn câu đáp phù hợp.
+3. Nghe và chọn phiên âm pinyin.
+4. Nghe và chọn chữ Hán.
+5. Nghe hội thoại/thông tin và trả lời câu hỏi.
+
+Câu hỏi nghe không đòi hỏi người học biết trước tên, vai hay diện mạo nhân vật trong sách. Audio gốc vẫn có thể nhắc tên; đáp án chỉ dựa vào thông tin nghe được trong từng câu. Tranh người trong đáp án là minh hoạ chung, không phải chân dung nhân vật trong sách.
+
+Audio gốc và tranh đáp án được nhúng trong HTML; một số câu đáp sử dụng đoạn cắt từ audio gốc. Có thể nghe lại, chọn đáp án, nộp bài và làm lại. Lời nghe/đáp án được mở sau khi nộp.
+Xem DAP_AN_DE_NGHE_MOI.txt để đối chiếu câu hỏi, lựa chọn, đáp án, lời nghe và nguồn audio.
+
+Ảnh mới được tạo bằng ImageGen tích hợp. 15 bộ tranh đáp án chứa 90 ô tranh, cùng 16 ảnh bối cảnh. Mô tả ảnh ở IMAGE_PROMPTS.md.
+
+Điểm cao nhất được lưu trên trình duyệt hiện tại. Câu trả lời chưa nộp không được lưu.

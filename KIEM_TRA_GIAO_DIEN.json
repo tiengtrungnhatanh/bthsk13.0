@@ -1,0 +1,172 @@
+{
+  "lessons": [
+    {
+      "lesson": 1,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 2,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 3,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 4,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 5,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 6,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 7,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 8,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 9,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 10,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 11,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 12,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 13,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 14,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    },
+    {
+      "lesson": 15,
+      "formats": 5,
+      "questions": 10,
+      "pictureQuestions": 2,
+      "validAudio": 10,
+      "gradedCorrect": 10,
+      "mobileOverflow": 0,
+      "reset": true
+    }
+  ],
+  "errors": [],
+  "wrongAnswerTest": true,
+  "keyboardPictureSelection": true,
+  "landscapeFits": true,
+  "playback": {
+    "time": 0.21634,
+    "paused": false,
+    "error": null
+  },
+  "nonListeningQuestionsPreserved": 1322,
+  "listeningQuestionsRebuilt": 150,
+  "formatsPerLesson": 5,
+  "questionsPerFormatPerLesson": 2,
+  "newBannerImages": 16,
+  "pictureChoiceTiles": 90,
+  "palette": "vanilla cream, biscuit gold, caramel, strawberry red, pastel sky blue; no purple",
+  "mascot": "cream teddy bear",
+  "listeningImagesPreserved": true
+}

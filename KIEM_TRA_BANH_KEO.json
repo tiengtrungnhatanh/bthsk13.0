@@ -1,0 +1,25 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "noHorizontalOverflow": true,
+      "all15LessonCards": true
+    },
+    {
+      "width": 1024,
+      "noHorizontalOverflow": true,
+      "all15LessonCards": true
+    },
+    {
+      "width": 768,
+      "noHorizontalOverflow": true,
+      "all15LessonCards": true
+    },
+    {
+      "width": 375,
+      "noHorizontalOverflow": true,
+      "all15LessonCards": true
+    }
+  ],
+  "errors": []
+}

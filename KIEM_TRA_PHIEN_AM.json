@@ -1,0 +1,125 @@
+{
+  "lessons": [
+    {
+      "lesson": 1,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 2,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 3,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 4,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 5,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 6,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 7,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 8,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 9,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 10,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 11,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 12,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 13,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 14,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    },
+    {
+      "lesson": 15,
+      "allThreeModes": true,
+      "persistsAfterReload": true,
+      "gradedCorrect": 10,
+      "noMobileOverflow": true,
+      "feedbackToggle": true
+    }
+  ],
+  "errors": []
+}
